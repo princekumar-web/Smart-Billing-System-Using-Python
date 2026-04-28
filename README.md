@@ -18,7 +18,7 @@ Follow these steps to run the project on your system:
    Download from: https://www.python.org/
 
 2. Download or clone this repository  
-   git clone https://github.com/your-username/pizza-corner.git
+   git clone [https://github.com/princekumar-web/Smart-Billing-System-Using-Python]
 
 3. Open the project folder  
    cd Smart-Billing-System-Using-Python
